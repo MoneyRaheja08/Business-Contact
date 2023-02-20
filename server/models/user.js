@@ -1,3 +1,4 @@
+//user.js Money Raheja 301276615 19/02/2023
 // require modules for the User Model
 let mongoose = require('mongoose');
 let passportLocalMongoose = require('passport-local-mongoose');

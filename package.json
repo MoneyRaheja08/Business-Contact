@@ -31,5 +31,17 @@
     "@types/passport": "^1.0.12",
     "@types/passport-local": "^1.0.35",
     "@types/passport-local-mongoose": "^6.1.1"
-  }
+  },
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoneyRaheja08/Business-Contact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoneyRaheja08/Business-Contact/issues"
+  },
+  "homepage": "https://github.com/MoneyRaheja08/Business-Contact#readme",
+  "description": ""
 }

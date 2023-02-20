@@ -8,4 +8,4 @@ router.get('/', function(req, res, next) {
     res.render('contact', { title: 'Contact' });
   });
   
-module.exports = router;
+module.exports =  router;
